@@ -9,19 +9,19 @@
 <h1 align="center">DoggoMate</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jordanistan/doggomate?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jordanistan/doggomate?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jordanistan/doggomate?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jordanistan/doggomate?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jordanistan/doggomate?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jordanistan/doggomate?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jordanistan/doggomate?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -39,20 +39,40 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/jordanistan" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+App Name: DoggoMate
+
+Description: DoggoMate is the ultimate app for dog owners who want to share pictures of their pets, tip workers, and order food/drinks. This user-friendly app offers a seamless experience, connecting dog owners and pet-friendly establishments to create a vibrant, interactive community.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Pet Profile: Create a profile for your dog(s) with photos, breed information, age, and any fun facts. Users can share their pets' pictures and stories, creating a lively community of dog lovers.
+
+:heavy_check_mark: Photo Sharing & Social Networking: Share your dog's pictures with the community, follow other dog owners, and engage with your favorite pets via comments and likes. Utilize hashtags and location tagging to find nearby dog owners and pet-friendly places.
+
+:heavy_check_mark: Tip Workers: Show appreciation to workers in pet-friendly establishments by tipping them directly through the app. Rate and review the service provided to help other users make informed decisions.
+
+:heavy_check_mark: Food & Drink Ordering: Order food and drinks from participating pet-friendly establishments. View menus, customize your order, and pay securely through the app. Enable in-app notifications to receive updates about your order and pickup time.
+
+:heavy_check_mark: Pet-Friendly Establishments: Find and explore pet-friendly cafes, restaurants, and bars in your vicinity. View detailed information, including opening hours, contact details, and user reviews. Bookmark your favorite places for easy access in the future.
+
+:heavy_check_mark:Events & Meetups: Discover dog-related events and meetups happening in your area. Create and join events to socialize with other dog owners and pets, fostering a stronger sense of community.
+
+:heavy_check_mark: In-App Messaging: Communicate with other dog owners and workers at pet-friendly establishments through the app. Share tips, ask for recommendations, or simply chat about your shared love for dogs.
+
+:heavy_check_mark: Rewards & Promotions: Earn points for every order, tip, and social interaction within the app. Redeem your points for exclusive discounts and promotions at participating establishments.
+
+:heavy_check_mark: Customizable Settings & Notifications: Customize your notification preferences to receive updates on new followers, likes, comments, and messages. Enable location-based notifications to discover nearby pet-friendly establishments and events.
+
+:heavy_check_mark: Privacy Controls: Manage your account privacy settings to share your pet's profile and photos only with your desired audience.
+
+DoggoMate aims to create a supportive and engaging network of dog owners and pet-friendly establishments, making it easy to share your love for your furry friends, support local businesses, and enjoy quality time with your pet.
 
 ## :rocket: Technologies ##
 
@@ -72,7 +92,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/doggomate
+$ git clone https://github.com/jordanistan/doggomate
 
 # Access
 $ cd doggomate
@@ -91,7 +111,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/jordanistan" target="_blank">Jordanistan</a>
 
 &#xa0;
 
