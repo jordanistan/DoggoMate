@@ -44,11 +44,9 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Description: ##
 
-App Name: DoggoMate
-
-Description: DoggoMate is the ultimate app for dog owners who want to share pictures of their pets, tip workers, and order food/drinks. This user-friendly app offers a seamless experience, connecting dog owners and pet-friendly establishments to create a vibrant, interactive community.
+DoggoMate is the ultimate app for dog owners who want to share pictures of their pets, tip workers, and order food/drinks. This user-friendly app offers a seamless experience, connecting dog owners and pet-friendly establishments to create a vibrant, interactive community.
 
 ## :sparkles: Features ##
 
