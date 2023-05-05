@@ -1,0 +1,46 @@
+def create_tables():
+    dynamodb.create_table(
+        TableName='Users',
+        KeySchema=[
+            {'AttributeName': 'user_id', 'KeyType': 'HASH'}
+        ],
+        AttributeDefinitions=[
+            {'AttributeName': 'user_id', 'AttributeType': 'S'}
+        ],
+        ProvisionedThroughput={
+            'ReadCapacityUnits': 5,
+            'WriteCapacityUnits': 5
+        }
+    )
+
+    dynamodb.create_table(
+        TableName='Pets',
+        KeySchema=[
+            {'AttributeName': 'pet_id', 'KeyType': 'HASH'}
+        ],
+        AttributeDefinitions=[
+            {'AttributeName': 'pet_id', 'AttributeType': 'S'}
+        ],
+        ProvisionedThroughput={
+            'ReadCapacityUnits': 5,
+            'WriteCapacityUnits': 5
+        }
+    )
+
+    dynamodb.create_table(
+        TableName='PetFriendlyEstablishments',
+        KeySchema=[
+            {'AttributeName': 'establishment_id', 'KeyType': 'HASH'}
+        ],
+        AttributeDefinitions=[
+            {'AttributeName': 'establishment_id', 'AttributeType': 'S'}
+        ],
+        ProvisionedThroughput={
+            'ReadCapacityUnits': 5,
+            'WriteCapacityUnits': 5
+        }
+    )
+
+if __name__ == '__main__':
+    create_tables()
+    app.run(debug=True)
