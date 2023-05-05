@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt=":dog: DoggoMate" />
+  <img src="./.github/app.gif" alt=":dog: DoggoMate :dog:" />
 
   &#xa0;
 
-  <!-- <a href="https://:dog: doggomate.netlify.app">Demo</a> -->
+  <!-- <a href="https://:dog: doggomate :dog:.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">:dog: DoggoMate</h1>
+<h1 align="center">:dog: DoggoMate :dog:</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jordanistan/:dog: doggomate?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jordanistan/:dog: doggomate :dog:?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jordanistan/:dog: doggomate?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jordanistan/:dog: doggomate :dog:?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jordanistan/:dog: doggomate?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jordanistan/:dog: doggomate :dog:?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jordanistan/:dog: doggomate?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jordanistan/:dog: doggomate :dog:?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jordanistan/:dog: doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jordanistan/:dog: doggomate :dog:?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jordanistan/:dog: doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jordanistan/:dog: doggomate :dog:?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jordanistan/:dog: doggomate?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jordanistan/:dog: doggomate :dog:?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  :dog: DoggoMate 🚀 Under construction...  🚧
+	🚧  :dog: DoggoMate :dog: 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -46,7 +46,7 @@
 
 ## :dart: Description: ##
 
-:dog: DoggoMate is the ultimate app for dog owners who want to share pictures of their pets, tip workers, and order food/drinks. This user-friendly app offers a seamless experience, connecting dog owners and pet-friendly establishments to create a vibrant, interactive community.
+:dog: DoggoMate :dog: is the ultimate app for dog owners who want to share pictures of their pets, tip workers, and order food/drinks. This user-friendly app offers a seamless experience, connecting dog owners and pet-friendly establishments to create a vibrant, interactive community.
 
 ## :sparkles: Features ##
 
@@ -70,7 +70,7 @@
 
 :heavy_check_mark: Privacy Controls: Manage your account privacy settings to share your pet's profile and photos only with your desired audience.
 
-:dog: :dog: DoggoMate aims to create a supportive and engaging network of dog owners and pet-friendly establishments, making it easy to share your love for your furry friends, support local businesses, and enjoy quality time with your pet.
+:dog: DoggoMate :dog: aims to create a supportive and engaging network of dog owners and pet-friendly establishments, making it easy to share your love for your furry friends, support local businesses, and enjoy quality time with your pet.
 
 
 
